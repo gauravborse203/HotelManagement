@@ -1,0 +1,5 @@
+
+n
+java:S1128"3Remove this unused import 'jakarta.persistence.Id'.8ÿŸˆ¢è1b 6d9b8800928f1905b0b2ddf3a92fccfdh
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ed9ca373976d87062b0eaa45b599c415h
+	java:S116"SRename this field "Location" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ÌÊèè1b ce5bf551379459c1c61d2a204061c455h

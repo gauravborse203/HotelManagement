@@ -1,0 +1,6 @@
+
+u
+java:S1128":Remove this unused import 'jakarta.persistence.Transient'.8Û÷≥è‰1b 36da390687cc7ca083f8992f4dbcf37ch
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 9f7398c07a94f9db9f68384fc7f59024h
+|
+java:S1128"ARemove this unused import 'com.lcwd.UserService.entities.Rating'.8Û÷≥è‰1b 9dcbeb2cf89d5fcd064ed6bfbe4a29cdh

@@ -1,0 +1,13 @@
+
+r
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.8ØÍ æ1b 8fd4aff57fa032a7e875c4194979e606h
+z
+java:S1128"?Remove this unused import 'jakarta.persistence.GeneratedValue'.8ØÍ æ1b 08b276a9f627bb33ff29d65613945409h
+z
+java:S1128"?Remove this unused import 'jakarta.persistence.GenerationType'.8ØÍ æ1b 815e1bdf2f8cf762c511ce3bbd060a24h
+P
+java:S1700"Rename field "rating"8ùËÓ«å1b 2c5504ab9a86164db22a92dc8793843dh
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b bd709b269f7fd0220b3eb04c1ed5a546h
+v	java:S125"<This block of commented-out lines of code should be removed.8ø—Ù¢è1b 3e1fc8daad83a7284c6baa7e122c725ah
+‚
+java:S1128"GRemove this unused import 'com.lcwd.hotel.HotelService.entities.Hotel'.8ø—Ù¢è1b 64d5b3b9d038ce38c76b2e9a5e328ac8h
