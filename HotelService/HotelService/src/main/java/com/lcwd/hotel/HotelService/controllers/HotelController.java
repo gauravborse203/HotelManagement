@@ -44,6 +44,8 @@ public class HotelController {
 	 @GetMapping
 	 public ResponseEntity<List<Hotel>> getall(){
 		return  ResponseEntity.ok(hotelService.getall());
+	
 		 
 	 }
+	 
 }
