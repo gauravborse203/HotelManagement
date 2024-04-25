@@ -29,4 +29,5 @@ public class Hotel {
 	private String name;
 	private String Location;
 	private String about;
+
 }
