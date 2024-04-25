@@ -1,9 +1,9 @@
 
 z
 java:S1128"?Remove this unused import 'jakarta.persistence.GenerationType'.8õ”ÃÇÂ1b 815e1bdf2f8cf762c511ce3bbd060a24h
-ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ba2735ab7cd11a60111259ffc30e72d3h
-r
-java:S1128"7Remove this unused import 'jakarta.persistence.Column'.8õ”ÃÇÂ1b 8fd4aff57fa032a7e875c4194979e606h
 ç	java:S116"SRename this field "Location" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8ï‚˙·‰1b ce5bf551379459c1c61d2a204061c455h
 z
 java:S1128"?Remove this unused import 'jakarta.persistence.GeneratedValue'.8õ”ÃÇÂ1b 08b276a9f627bb33ff29d65613945409h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ba2735ab7cd11a60111259ffc30e72d3h
+r
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.8õ”ÃÇÂ1b 8fd4aff57fa032a7e875c4194979e606h
